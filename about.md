@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi! I'm an undergraduate studying Computer Science and Business Honors in the [Turing Scholars and Business Honors Dual Degree Program](http://csb.utexas.edu) at UT Austin.
 
-In addition, I am the technology director for the [University Securities Investment Team](https://www.texasusit.org), an organization that educates over 200 undergraduates on fundamental analysis and value investing.
+In addition, I am the Director of Technology for the [University Securities Investment Team](https://www.texasusit.org), an organization that educates over 200 undergraduates on fundamental analysis and value investing. As Director of Tech, I worked on [this](http://vote.texasusit.org) and [this](http://signin.texasusit.org).
 
 I'm interested in the intersection between finance and computer science. I have basic experience in robotics and artificial intelligence research, web development, and full-stack development.
 
