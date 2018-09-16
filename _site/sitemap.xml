@@ -5,13 +5,13 @@
 <lastmod>2018-09-15T00:00:00-05:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/Second-Post/</loc>
-<lastmod>2018-09-15T00:00:00-05:00</lastmod>
-</url>
-<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/download/CS-Resume.pdf</loc>
+<lastmod>2018-09-16T16:19:21-05:00</lastmod>
 </url>
 </urlset>
