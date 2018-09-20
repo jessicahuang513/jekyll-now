@@ -20,4 +20,4 @@ I am currently seeking an internship for Summer 2019.
 
 [LinkedIn](http://www.linkedin.com/in/jessica-huang-cs)
 
-[Resume](https://drive.google.com/file/d/1wXWgRH1IlBdwvrLN2Lxe3xLmBo1n5PAU/view?usp=sharing)
+[Resume](https://drive.google.com/file/d/1nMQgPwo1X5Mk4J1qkk42J0oWzXvAgzPu/view?usp=sharing)
